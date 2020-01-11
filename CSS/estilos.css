@@ -41,3 +41,9 @@ body
 {
     font-size: 20px; 
 }
+#footer
+{
+    background: grey;
+    color: white;
+    text-align: center;
+}
